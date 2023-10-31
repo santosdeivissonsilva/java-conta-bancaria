@@ -6,3 +6,6 @@ O Usuário irá interagir com o sistema via terminal informando seus dados.
 Ao final, o sistema irá exibir a mensagem de finalização, informando os dados:
 
 ![Interação](./ContaBanco/images/interacao.png "Interação")
+
+## Objetivo
+Explorar opções de entrada e saída simples de dados em uma aplicação Java.
